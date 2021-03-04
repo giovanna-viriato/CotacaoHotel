@@ -6,7 +6,7 @@ using System.Drawing.Drawing2D;
 
 namespace CotacaoHotel
 {
-    class ArredondarRetangulo
+    class RoundRectangle
     {
         public static GraphicsPath RoundedRect(Rectangle bounds, int radius)
         {
